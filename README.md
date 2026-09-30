@@ -15,7 +15,7 @@ This project focuses on the spatial analysis and mapping of public green spaces,
 
 ### 📄 Technical Report (PDF)
 You can read the comprehensive analysis, methodology, and conclusions of the study in the official PDF report:
-👉 <a href="./Map of Green in the City Center of Thessaloniki.pdf">Read The Technical Report Here</a>
+👉 <a href="./Map of Green Spaces in the City Center of Thessaloniki.pdf">Read The Technical Report Here</a>
 
 
 ## 🇬🇷 Ελληνική Έκδοση
